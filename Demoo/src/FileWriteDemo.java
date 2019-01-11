@@ -17,7 +17,7 @@ public class FileWriteDemo
 			}
 			
 			System.out.println("Content written to File");
-			System.out.println("-------------");
+
 			fos.close();
 		}
 		catch(Exception e)
